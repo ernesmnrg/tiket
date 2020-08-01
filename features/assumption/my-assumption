@@ -1,0 +1,7 @@
+Using Gherkin not a bad thing, it is great because:
+- define scenarios from user perspective and at the same time it's extremely descriptive such that there's no ambiguity at all 
+- clear and consice Given-When-Then Syntax: can understood by everyone in the team no matter how technical or non-technical
+- readily understood: these simple given-when-than statements are easily by every person in team and once you finally 
+finish your test automation activities, you simply pass on this report to stakeholders and they understand exactly what the product is meant to do 
+and it's all driven through test automation process 
+- 
